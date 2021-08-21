@@ -9,11 +9,11 @@ export default {
             coaches: [
                 {
                   id: 'c1',
-                  firstName: 'Maximilian',
-                  lastName: 'Schwarzmüller',
-                  areas: ['frontend', 'backend', 'career'],
+                  firstName: 'AAAAAA',
+                  lastName: 'BBBBBBBB',
+                  areas: ["frontend", "backend", "career"],
                   description:
-                    "I'm Maximilian and I've worked as a freelance web developer for years. Let me help you become a developer as well!",
+                    "Long Description",
                   hourlyRate: 30
                 },
                 {
